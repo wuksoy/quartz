@@ -11,6 +11,13 @@ function ArticleTitle({ fileData, displayClass }: QuartzComponentProps) {
 ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
+  animation: colorChange 5s infinite;
+}
+
+@keyframes colorChange {
+  0% {color: tertiary;}
+  50% {color: red;}
+  100% {color: tertiary;}
 }
 `
 

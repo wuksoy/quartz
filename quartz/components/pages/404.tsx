@@ -4,7 +4,7 @@ function NotFound() {
   return (
     <article class="popover-hint">
       <h1>404</h1>
-      <p>Either this page is private or doesn't exist.</p>
+      <p>A byte-sized black hole has swallowed this page. Try navigating through the cosmic links below.</p>
     </article>
   )
 }

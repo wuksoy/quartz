@@ -3,6 +3,7 @@
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.1.1",
+  "portfolio":"2.0",
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
