@@ -12,8 +12,6 @@ export const sharedPageComponents: SharedLayout = {
       "X"         :"https://github.com/wuksoy",
       "Instagram" :"https://www.instagram.com/wishanhere",
       "ArtStation":"https://www.artstation.com/wuksoy",
-      "DeviantArt":"https://www.deviantart.com/wuksoy",
-      "Twitch"    :"https://www.twitch.tv/wuksoy",
     },
   }),
 }
