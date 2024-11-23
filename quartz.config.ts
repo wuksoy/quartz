@@ -7,9 +7,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: 'G-0NHHD54K62',
     },
-    baseUrl: "wuk.soy",
+    baseUrl: "brain.wuk.soy",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -47,7 +47,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
