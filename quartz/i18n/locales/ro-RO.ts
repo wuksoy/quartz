@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Creat cu",
+      copyright:"Drepturi de autor"
     },
     graph: {
       title: "Graf",

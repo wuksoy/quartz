@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Şununla oluşturuldu",
+      copyright:"Telif Hakkı"
     },
     graph: {
       title: "Grafik Görünümü",

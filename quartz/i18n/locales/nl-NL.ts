@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Gemaakt met",
+      copyright:"Auteursrecht"
     },
     graph: {
       title: "Grafiekweergave",

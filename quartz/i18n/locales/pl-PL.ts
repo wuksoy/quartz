@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Stworzone z użyciem",
+      copyright:"Prawa autorskie"
     },
     graph: {
       title: "Graf",

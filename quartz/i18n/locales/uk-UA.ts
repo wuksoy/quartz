@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Створено за допомогою",
+      copyright:"Авторське право"
     },
     graph: {
       title: "Вигляд графа",

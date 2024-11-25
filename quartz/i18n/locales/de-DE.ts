@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Erstellt mit",
+      copyright:"ophavsret"
     },
     graph: {
       title: "Graphansicht",

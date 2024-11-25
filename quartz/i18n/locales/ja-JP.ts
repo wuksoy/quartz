@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "作成",
+      copyright:"著作権"
     },
     graph: {
       title: "グラフビュー",

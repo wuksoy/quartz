@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "ساخته شده با",
+      copyright:"حق چاپ"
     },
     graph: {
       title: "نمای گراف",

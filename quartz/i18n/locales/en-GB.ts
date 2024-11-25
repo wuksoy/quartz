@@ -34,6 +34,7 @@ export default {
     },
     footer: {
       createdWith: "Created with",
+      copyright:"Copyright"
     },
     graph: {
       title: "Graph View",
