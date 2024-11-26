@@ -116,8 +116,18 @@ this is a cheat sheet for all the most common commands in git as a helpful remin
 
 ### Git Push
 
-| Command                                      | Description                                                                                              |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| `git push <remote> --force`                 | Forces the git push even if it results in a non-fast-forward merge. Do not use the `--force` flag unless you're absolutely sure you know what you're doing. |
-| `git push <remote> --all`                   | Push all of your local branches to the specified remote.                                                |
-| `git push <remote> --tags`                  | Tags aren't automatically pushed when you push a branch or use the `--all` flag. The `--tags` flag sends all of your local tags to the remote repo.     |
+| Command                     | Description                                                                                                                                                 |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git push <remote> --force` | Forces the git push even if it results in a non-fast-forward merge. Do not use the `--force` flag unless you're absolutely sure you know what you're doing. |
+| `git push <remote> --all`   | Push all of your local branches to the specified remote.                                                                                                    |
+| `git push <remote> --tags`  | Tags aren't automatically pushed when you push a branch or use the `--all` flag. The `--tags` flag sends all of your local tags to the remote repo.         |
+
+### Git Sync with Upstream
+
+
+| Command                                            | Description                                                  |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| `git remote add upstream <URL-of-original-repo> `  | ensure that you have the original repository set as a remote |
+| `git fetch upstream`                               | Retrieve the changes from the upstream repository            |
+| `git checkout main` THEN `git merge upstream/main` | Merge the upstream changes into your local branch            |
+

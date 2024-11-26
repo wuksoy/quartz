@@ -13,14 +13,9 @@ The Atlas is where all the main parts of my thoughts are listed. This will cover
 
 ---
 - #### Projects
-	- [[TNR System]]
 	- [[Portfolio Website]]
-	- [[Budget App]]
-	- [[Personal Computers Portal System]]
-	- [[Personal Computers Point of Sale System]]
-	- [[A Plus Connex Shipping Management System]]
-	- [[Specification Printing System]]
 	- [[Resort Room Rate Calculator]]
+	- [[Personal Computers Projects]]
 - #### Areas
 	- [[Work Responsibilites |Work]]
 	- [[Personal Development]]
@@ -42,6 +37,3 @@ The Atlas is where all the main parts of my thoughts are listed. This will cover
 	- [[Completed Projects]]
 	- [[Inactive Areas]]
 	- [[Past Interests]]
-
-
-
