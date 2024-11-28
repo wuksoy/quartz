@@ -1,5 +1,5 @@
 ---
-title: Completed Projects
+title: Resources
 draft: false
 aliases: 
 tags: 
