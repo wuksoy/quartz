@@ -1,7 +1,6 @@
 ---
 title: Cheat Sheets
-tags:
-  - MOC
+tags: []
 drafts: "false"
 date: 2024-11-23
 created: 2024-11-23
