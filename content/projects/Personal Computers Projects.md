@@ -1,7 +1,8 @@
 ---
 title: 
 drafts: "false"
-tags: 
+tags:
+  - MOC
 MOC: 
 created: 2024-11-26
 modified: 2024-11-26

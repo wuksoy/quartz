@@ -264,7 +264,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   } else if ([".pdf"].includes(ext)) {
                     return {
                       type: "html",
-                      value: `<iframe src="${url}" class="pdf"></iframe>`,
+                      value: `<iframe style="width:100%;" src="${url}" class="pdf"></iframe>`,
                     }
                   } else {
                     const block = anchor

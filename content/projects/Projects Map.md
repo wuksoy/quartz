@@ -2,7 +2,8 @@
 title: Projects
 draft: false
 aliases: 
-tags: 
+tags:
+  - MOC
 MOC: 
 created: 2024-11-28
 modified: 2024-11-28
