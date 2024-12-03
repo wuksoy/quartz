@@ -1,35 +1,37 @@
 ---
-title: License Delivery System
-draft: false
+title: <% tp.file.title %>
+draft: true
 aliases: 
 tags:
   - project
 MOC: "[[Projects Map]]"
-created: 2024-11-28
-modified: 2024-12-03
-published: 2024-12-03
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
+published: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-A central document for organizing, tracking, and reflecting on the progress of the **License Delivery System**. This serves as a single source of truth for all stakeholders and contributors.
+A central document for organizing, tracking, and reflecting on the progress of the **<% tp.file.title %>**. This serves as a single source of truth for all stakeholders and contributors.
 
 ---
 ## Overview
 
 ### **Purpose**
-- The main purpose of this project was to digitize and automate the current business transaction of selling digital software license keys to customers
+- Briefly describe the problem this project aims to solve or the opportunity it addresses.
 
 ### **Scope**
-- create a customer facing web application to retrieve their software license key online
-- create a backend system for staff to add, assign and review license keys and logs of all transaction
-- integrate email, WhatsApp and SMS for customer convenience
+- Define what the project includes and excludes to set boundaries.
 
 ### **Key Deliverables**
-- Functional Software
-	- A customer-facing web application to retrieve and view their license keys
-	- Backend platform for staff to add and assign license keys to customers
-- Documentation
-	- Software development documentation of technology used
-	- Staff training guide
+- List the primary outputs (e.g., functional software, documentation, analytics reports).
+
+---
+## Objectives and Success Criteria
+
+### **Objectives**
+- Clear, actionable goals the project intends to achieve.
+
+### **Success Metrics**
+- Define measurable indicators of success (e.g., user adoption rates, performance improvements).
 
 ---
 ## Roadmap
@@ -40,26 +42,7 @@ A central document for organizing, tracking, and reflecting on the progress of t
 3. **Phase 3:** Description (Target Date)
 
 ### **Timeline**
-
-```mermaid 
-gantt
-    title License Delivery System
-    dateFormat YYYY-MM-DD
-    axisFormat %d-%m
-    excludes friday
-    section Requirement Analysis
-        collect requirements          :a1, 2024-10-20, 1d
-        finalise scope                :a2,after a1, 1d
-    section Design and Development
-        finalise tech stack           :a3, after a2, 3d
-		develop software functions    :a4, after a3, 1d
-    section Testing and Deployment
-        test fucntion                 :a5, after a4, 1d
-        deploy live server            :a6, after a5, 1d
-    section Training
-        train store managers          :a7, after a6, 3d
-		train logistics               :after a7, 1d
-```
+- Use a Gantt chart, table, or bullet points to visualize timelines if applicable.
 
 ---
 ## Tasks and Responsibilities

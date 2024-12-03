@@ -30,20 +30,6 @@ This note serves as a **Map of Content** for the **Personal Development** area. 
 - **[[Habit Tracking]]**: Regular routines to maintain focus and discipline.
 - **[[Time Management]]**: Techniques to improve efficiency and balance.
 
-### 4. **Career Advancement**
-
-- **[[Professional Growth Plan]]**: Goals related to career development, such as leadership, communication, or technical skills.
-- **[[Networking and Mentorship]]**: Building relationships to support professional growth.
-
----
-
-## Projects and Initiatives
-
-This section links to specific **Projects** that are closely tied to personal development:
-
-- **[[Fitness Tracker App Development]]**: Building a personal app to track health metrics.
-- **[[Portfolio Enhancements]]**: Continuous improvement of my personal portfolio to showcase new skills.
-- **[[Public Speaking Practice]]**: Initiatives to build confidence and proficiency in speaking.
 
 ---
 
