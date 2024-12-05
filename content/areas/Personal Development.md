@@ -30,17 +30,6 @@ This note serves as a **Map of Content** for the **Personal Development** area. 
 - **[[Habit Tracking]]**: Regular routines to maintain focus and discipline.
 - **[[Time Management]]**: Techniques to improve efficiency and balance.
 
-
----
-
-## Resources
-
-A collection of tools and references to support personal development:
-
-- **[[Recommended Books and Articles]]**: Insights from thought leaders and experts.
-- **[[Apps and Tools for Growth]]**: Digital resources like habit trackers, fitness apps, or learning platforms.
-- **[[Community and Support Groups]]**: Communities for accountability and shared learning.
-
 ---
 
 ## Reviews and Reflection

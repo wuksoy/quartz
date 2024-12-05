@@ -42,7 +42,25 @@ A central document for organizing, tracking, and reflecting on the progress of t
 3. **Phase 3:** Description (Target Date)
 
 ### **Timeline**
-- Use a Gantt chart, table, or bullet points to visualize timelines if applicable.
+```mermaid 
+gantt
+    title License Delivery System
+    dateFormat YYYY-MM-DD
+    axisFormat %d-%m
+    excludes friday
+    section Requirement Analysis
+        collect requirements          :a1, <% tp.date.now("YYYY-MM-DD") %>, 1d
+        finalise scope                :a2,after a1, 1d
+    section Design and Development
+        finalise tech stack           :a3, after a2, 3d
+		develop software functions    :a4, after a3, 1d
+    section Testing and Deployment
+        test fucntion                 :a5, after a4, 1d
+        deploy live server            :a6, after a5, 1d
+    section Training
+        train store managers          :a7, after a6, 3d
+		train logistics               :after a7, 1d
+```
 
 ---
 ## Tasks and Responsibilities

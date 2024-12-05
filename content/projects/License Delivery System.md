@@ -35,9 +35,9 @@ A central document for organizing, tracking, and reflecting on the progress of t
 ## Roadmap
 
 ### **Milestones**
-1. **Phase 1:** Description (Target Date)
-2. **Phase 2:** Description (Target Date)
-3. **Phase 3:** Description (Target Date)
+1. **Phase 1:** Requirement Gathering
+2. **Phase 2:** Minimum Viable Product / Prototype
+3. **Phase 3:**  Project handover
 
 ### **Timeline**
 
@@ -50,40 +50,46 @@ gantt
     section Requirement Analysis
         collect requirements          :a1, 2024-10-20, 1d
         finalise scope                :a2,after a1, 1d
+	    Phase One Complete : milestone, m1, 2024-10-25, 1d
     section Design and Development
         finalise tech stack           :a3, after a2, 3d
 		develop software functions    :a4, after a3, 1d
     section Testing and Deployment
         test fucntion                 :a5, after a4, 1d
         deploy live server            :a6, after a5, 1d
+        Phase Two Complete : milestone, m1, 2024-11-01, 1d
     section Training
         train store managers          :a7, after a6, 3d
 		train logistics               :after a7, 1d
+		Phase Three Complete : milestone, m1, 2024-11-03, 1d
 ```
 
 ---
 ## Tasks and Responsibilities
 
 ### **Key Tasks**
-- Break down the project into actionable tasks.
+- WhatsApp API integration
+- Mail integration
+- SMS integration
+- Bulk upload of software licenses
+- generate reports on logs and license keys
 
 ### **Team Roles**
-- Assign responsibilities to team members or stakeholders.
+- This project was assigned to 2 people
 
 ---
 ## Current Status
 
 ### **Progress Overview**
-- Summarize what’s been completed, what’s in progress, and what’s pending.
+- Project marked complete
 
 ### **Challenges**
-- Highlight any roadblocks and potential risks.
+- Third Part SMS provider API was non-functional. No way of finding a new provider withing the project timeline
 
 ---
 ## Next Steps
 
-- Outline immediate priorities for the next phase or sprint.
-- Include dependencies or tasks requiring input from others.
+- currently this project is in maintenance mode
 
 ---
 ## Resources and Tools

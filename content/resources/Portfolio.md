@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-draft: false
+draft: true
 aliases: 
 tags: 
 MOC: 
