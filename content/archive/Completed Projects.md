@@ -8,8 +8,17 @@ created: 2024-11-28
 modified: 2024-12-01
 published: 2024-12-01
 ---
-This note serves as the Map of Content for all the completed projects
+## List of Completed Projects
 
-List of Projects:
-1) [[License Delivery System]]
-2) 
+### **Professional Projects**
+
+1. [[License Delivery System]]
+
+### **Personal Projects**
+
+1. [[Portfolio Website]]
+2. [[Resort Room Rate Calculator]]
+
+### **Learning Projects**
+
+1. [[redacted]]

@@ -17,11 +17,8 @@ The **[[projects/index|Projects]]** section showcases ongoing, and planned endea
 ### Featured Projects:
 
 - **[[Personal Computers Projects]]**  
-    Initiatives involving personal computer setups, custom builds, performance optimization, and troubleshooting.
+    Projects undertaken as per my role as Software Developer at Personal Computers Pvt Ltd. Projects vary from ERP Systems to documentation to increasing business efficiency by digitising current processes.
     
-- **[[Portfolio Website]]**  
-    The design and development of a personal portfolio, including the use of frameworks like Quartz to showcase work and notes.
-    
-- **[[Resort Room Rate Calculator]]**  
-    A custom tool for calculating resort room rates, detailing the project’s functionality, development process, and practical use cases.
-    
+- [[Fabrics Web Application Project]]
+	A freelance project for a brick and mortar fabrics shop to help them reach a wider audience using a web application to bring their business online.
+	

@@ -17,7 +17,6 @@ This note serves as a **Map of Content** for the **Personal Development** area. 
 ### 1. **Health and Well-being**
 
 - **[[Fitness Goals]]**: Plans and progress tracking for physical health.
-- **[[Mental Health Practices]]**: Strategies for mindfulness, meditation, and stress management.
 - **[[Sleep and Recovery]]**: Routines to optimize rest and rejuvenation.
 
 ### 2. **Skill Development**
@@ -28,7 +27,7 @@ This note serves as a **Map of Content** for the **Personal Development** area. 
 ### 3. **Productivity and Habits**
 
 - **[[Habit Tracking]]**: Regular routines to maintain focus and discipline.
-- **[[Time Management]]**: Techniques to improve efficiency and balance.
+- [[Note Taking]]
 
 ---
 

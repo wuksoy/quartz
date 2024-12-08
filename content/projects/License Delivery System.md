@@ -4,7 +4,7 @@ draft: false
 aliases: 
 tags:
   - project
-MOC: "[[Projects Map]]"
+MOC: "[[Completed Projects]]"
 created: 2024-11-28
 modified: 2024-12-03
 published: 2024-12-03
