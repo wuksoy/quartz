@@ -14,17 +14,12 @@ This note serves as a **Map of Content** for the **Personal Development** area. 
 
 ## Key Areas
 
-### 1. **Health and Well-being**
-
-- **[[Fitness Goals]]**: Plans and progress tracking for physical health.
-- **[[Sleep and Recovery]]**: Routines to optimize rest and rejuvenation.
-
-### 2. **Skill Development**
+### 1. **Skill Development**
 
 - **[[Current Learning Focus]]**: Skills actively being worked on (e.g., a new programming language or soft skills).
 - **[[Education and Courses]]**: Notes and progress on formal or informal learning activities.
 
-### 3. **Productivity and Habits**
+### 2. **Productivity and Habits**
 
 - **[[Habit Tracking]]**: Regular routines to maintain focus and discipline.
 - [[Note Taking]]

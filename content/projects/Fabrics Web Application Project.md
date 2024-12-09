@@ -76,6 +76,7 @@ gantt
 
 ### **Progress Overview**
 - Summarize what’s been completed, what’s in progress, and what’s pending.
+[[progress tracker]]
 
 ### **Challenges**
 - Highlight any roadblocks and potential risks.
@@ -87,27 +88,6 @@ gantt
 - Include dependencies or tasks requiring input from others.
 
 ---
-## Resources and Tools
+## Archive
 
-- **Documentation:** Link to technical docs, guides, or project charters.
-- **Tools:** Mention key tools or platforms (e.g., GitHub, Jira, Figma).
-- **References:** Link to any research, APIs, or standards being followed.
-
----
-## Communication Plan
-
-- **Meeting Cadence:** Frequency of team check-ins or stakeholder updates.
-- **Key Contacts:** List primary points of contact and their roles.
-
----
-## Retrospective
-
-- **Lessons Learned:** Reflect on successes and areas for improvement.
-- **Outcomes:** Summarize final results and how they compare to initial goals.
-- **Future Opportunities:** Highlight ideas or next steps stemming from this project.
-
----
-## Appendices
-
-- **Project Files:** Include links to relevant files, repositories, and mockups.
-- **Change Log:** Record major updates or decisions affecting the project scope or timeline.
+[[ fabrics_documentation]]

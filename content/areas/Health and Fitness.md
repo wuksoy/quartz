@@ -1,0 +1,2 @@
+- **[[Fitness Goals]]**: Plans and progress tracking for physical health.
+- **[[Sleep and Recovery]]**: Routines to optimize rest and rejuvenation.

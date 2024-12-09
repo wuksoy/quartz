@@ -17,11 +17,11 @@ This document serves as the MoC (Map of Content) for the **Personal Computers Po
 ## Goals and Objectives
 
 - **Develop a robust internal ERP system** to handle the following key modules:
-    - **HR Module:**
+    - **[[HR Module]]:**
         - Attendance tracking with automated reports.
         - Leave submission workflow with approval system.
         - Staff loan application tracking and status updates.
-    - **Knowledge Base:**
+    - **[[Knowledge Base]]:**
         - Centralized platform for staff training and documentation.
     - **Operational Documentation:**
         - Product return documentation workflow.
@@ -33,6 +33,8 @@ This document serves as the MoC (Map of Content) for the **Personal Computers Po
     - Assign roles and permissions for secure data access and operations.
 - **Reports and Analytics:**
     - Generate real-time insights and performance metrics to inform decision-making.
+- [[Specification Printing System]]
+	-  generate specification sheets for products on display at the store 
 
 ---
 ## Milestones

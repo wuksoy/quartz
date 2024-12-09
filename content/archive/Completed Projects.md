@@ -8,6 +8,9 @@ created: 2024-11-28
 modified: 2024-12-01
 published: 2024-12-01
 ---
+This note serves as the Maps of Content for all the archived completed projects, both personal and professional.
+
+---
 ## List of Completed Projects
 
 ### **Professional Projects**
@@ -18,7 +21,3 @@ published: 2024-12-01
 
 1. [[Portfolio Website]]
 2. [[Resort Room Rate Calculator]]
-
-### **Learning Projects**
-
-1. [[redacted]]

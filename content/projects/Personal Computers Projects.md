@@ -6,12 +6,13 @@ MOC:
 created: 2024-11-26
 modified: 2024-11-26
 ---
+This note 
 
 ---
-List of active Personal Computer Software Development Projects
+## List of active Projects:
 
 - [[Portal System]]
 - [[Point of Sale System]]
 - [[Warranties and Terms Publishing]]
 - [[Lucky Draw System]]
-- [[Specification Printing System]]
+

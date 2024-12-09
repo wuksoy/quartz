@@ -9,7 +9,6 @@ created: 2024-11-28
 modified: 2024-12-03
 published: 2024-12-03
 ---
-
 A central document for organizing, tracking, and reflecting on the progress of the **License Delivery System**. This serves as a single source of truth for all stakeholders and contributors.
 
 ---
