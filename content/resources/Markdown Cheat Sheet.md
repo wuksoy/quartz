@@ -2,8 +2,9 @@
 title: Markdown Cheat Sheet
 draft: false
 aliases: 
-tags: 
-MOC: 
+tags:
+  - cheatsheet
+MOC: "[[Cheat Sheets]]"
 created: 2024-12-05
 modified: 2024-12-11
 published: 2024-12-11
@@ -11,31 +12,35 @@ published: 2024-12-11
 
 ## Syntax
 
-| Syntax                   | Name             | Description                   |
-| ------------------------ | ---------------- | ----------------------------- |
-| `# Header 1`             | header format    | Create a level 1 header       |
-| `## Header 2`            | header format    | Create a level 2 header       |
-| `### Header 3`           | header format    | Create a level 3 header       |
-| `*italic*` or `_italic_` | italic           | Make text italic              |
-| `**bold**` or `__bold__` | bold             | Make text bold                |
-| `~~strikethrough~~`      | strikethrough    | Apply strikethrough to text   |
-| `* Item 1`               | lists: unordered | Create an unordered list item |
-| `1. Item A `              | lists: ordered   | Create an ordered list item   |
-| `[Link Text](URL)`       | link: text       | Insert a hyperlink            |
-| `![Alt Text](Image URL)` | link: image      | Embed an image                |
-| `> Quote`                | blockquote       | Create a blockquote           |
-| `` `code` ``             | code: inline     | Format inline code            |
-| \````                    | code: block      | Start and end a code block    |
+| Syntax                   | Name             | Description                     |
+| ------------------------ | ---------------- | ------------------------------- |
+| `# Header 1`             | header format    | Create a level 1 header         |
+| `## Header 2`            | header format    | Create a level 2 header         |
+| `### Header 3`           | header format    | Create a level 3 header         |
+| `*italic*` or `_italic_` | italic           | Make text *italic*              |
+| `**bold**` or `__bold__` | bold             | Make text **bold**              |
+| `~~strikethrough~~`      | strikethrough    | Apply ~~strikethrough~~ to text |
+| `* Item 1`               | lists: unordered | Create an unordered list item   |
+| `1. Item A `             | lists: ordered   | Create an ordered list item     |
+| `[Link Text](URL)`       | link: text       | Insert a hyperlink              |
+| `![Alt Text](Image URL)` | link: image      | Embed an image                  |
+| `> Quote`                | blockquote       | Create a blockquote             |
+| `` `code` ``             | code: inline     | Format inline `code`            |
+| \````                    | code: block      | Start and end a code block      |
+| `<sub> </sub>`           | subscript        | Create a <sub>subscript</sub>   |
+| `<sup> </sup>`           | supetscript      | Create a <sup>superscript</sup> |
+| `<ins> </ins>`           | underline        | Create an <ins>underline</ins>  |
+| `[]`                     | tasklist         | Creates a task                  |
+| `[^1]`                   | footnote         | Create footnote[^1]             |
 >[!note]
 >you can use the character `\` to escape the listed markdown syntaxes
 
 ---
 ## Callouts
 
-Quartz supports the same Admonition-callout syntax as Obsidian.
+Quartz supports the same Admonition-callout syntax as Obsidian. 
 
 This includes
-
 - 12 Distinct callout types (each with several aliases)
 - Collapsible callouts
 
@@ -100,3 +105,5 @@ This includes
 > This is a **Quote** callout. Use it to emphasize citations or referenced text.
 
 ---
+
+[^1]: My example reference.
