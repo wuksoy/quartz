@@ -60,7 +60,7 @@ document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(item => {
 
 // LENIS SMOOTH ANIMATIONS
 const lenis = new Lenis({
-  duration: 1.75,
+  duration: 1.5,
   easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
   smoothWheel: true,
 });
