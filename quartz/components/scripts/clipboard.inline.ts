@@ -38,7 +38,7 @@ document.addEventListener("nav", () => {
 
 // TEXT SHUFFLE ANIMATION
 import { TextAnimator } from "./textanimator.inline";
-document.querySelectorAll('a').forEach(item => {
+document.querySelectorAll('a, strong').forEach(item => {
   if (item instanceof HTMLElement) {
     const animator = new TextAnimator(item);
     item.addEventListener('mouseenter', () => {
