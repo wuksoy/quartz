@@ -1,3 +1,6 @@
+import Lenis from "lenis";
+import { TextAnimator } from "./textanimator.inline";
+
 const svgCopy =
   '<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>'
 const svgCheck =
@@ -37,8 +40,7 @@ document.addEventListener("nav", () => {
 })
 
 // TEXT SHUFFLE ANIMATION
-import { TextAnimator } from "./textanimator.inline";
-document.querySelectorAll('a, strong').forEach(item => {
+document.querySelectorAll('a, strong, em').forEach(item => {
   if (item instanceof HTMLElement) {
     const animator = new TextAnimator(item);
     item.addEventListener('mouseenter', () => {
@@ -55,3 +57,17 @@ document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(item => {
     });
   }
 });
+
+// LENIS SMOOTH ANIMATIONS
+const lenis = new Lenis({
+  duration: 1.75,
+  easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+  smoothWheel: true,
+});
+
+function raf(time: number) {
+  lenis.raf(time);
+  requestAnimationFrame(raf);
+}
+
+requestAnimationFrame(raf);
