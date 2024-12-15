@@ -53,7 +53,7 @@ document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(item => {
   if (item instanceof HTMLElement) {
     const animator = new TextAnimator(item);
     item.addEventListener('mouseenter', () => {
-      animator.animate();
+      animator.color_animate();
     });
   }
 });
