@@ -2,7 +2,7 @@ import { TextSplitter } from "./textsplitter.inline";
 import gsap from "gsap";
 
 const lettersAndSymbols = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '!', '@', '#', '$', '%', '^', '&', '*', '-', '_', '+', '=', ';', ':', '<', '>', ','];
-const randomColors = ['#FF0000','#FF2E2E','#FC4B4B', '#FF8D8D']; 
+const randomColors = ['#FF0000','#FF2E2E','#FC4B4B', '#00ffa2']; 
 export class TextAnimator {
   private textElement: HTMLElement;
   private splitter: any;
@@ -110,6 +110,7 @@ export class TextAnimator {
 
     chars.forEach((char: HTMLElement, position: number) => {
       const initialHTML = char.innerHTML;
+      const initialColor = getComputedStyle(char).color;
 
       gsap.fromTo(
         char,
@@ -122,11 +123,13 @@ export class TextAnimator {
           repeatRefresh: true,
           innerHTML: () => {
             const randomChar = lettersAndSymbols[Math.floor(Math.random() * lettersAndSymbols.length)];
+            const randomColor = randomColors[Math.floor(Math.random() * randomColors.length)];
             currentText[position] = randomChar;
+            gsap.set(char, { color: randomColor });
             return randomChar;
           },
           onComplete: () => {
-            gsap.set(char, { innerHTML: initialHTML, delay: 0.04 });
+            gsap.set(char, { innerHTML: initialHTML, color: initialColor, delay: 0.04 });
             currentText[position] = initialHTML;
           },
         }
