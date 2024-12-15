@@ -61,37 +61,37 @@ This includes
 ### Examples
 
 
-> [!note]
+> [!note]-
 > This is a **Note** callout. Use it to provide general information or context.
 
-> [!abstract]
+> [!abstract]-
 > This is an **Abstract** callout. Use it for summaries or overviews.
 
-> [!tip]
+> [!tip]-
 > This is a **Tip** callout. Use it to highlight useful hints or important points.
 
-> [!success]
+> [!success]-
 > This is a **Success** callout. Use it to mark accomplishments or successful actions.
 
-> [!question]
+> [!question]-
 > This is a **Question** callout. Use it to raise queries or provide FAQs.
 
-> [!warning]
+> [!warning]-
 > This is a **Warning** callout. Use it to caution about potential issues.
 
-> [!failure]
+> [!failure]-
 > This is a **Failure** callout. Use it to indicate errors or missing items.
 
-> [!danger]
+> [!danger]-
 > This is a **Danger** callout. Use it to highlight critical warnings or risks.
 
-> [!bug]
+> [!bug]-
 > This is a **Bug** callout. Use it to document issues or report errors.
 
-> [!example]
+> [!example]-
 > This is an **Example** callout. Use it to showcase use cases or scenarios.
 
-> [!quote]
+> [!quote]-
 > This is a **Quote** callout. Use it to emphasize citations or referenced text.
 
 ---
