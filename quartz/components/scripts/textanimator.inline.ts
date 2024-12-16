@@ -2,7 +2,7 @@ import { TextSplitter } from "./textsplitter.inline";
 import gsap from "gsap";
 
 const lettersAndSymbols = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '!', '@', '#', '$', '%', '^', '&', '*', '-', '_', '+', '=', ';', ':', '<', '>', ','];
-const randomColors = ['#FF0000','#FF2E2E','#FC4B4B', '#00ffa2']; 
+const randomColors = ['#a4161a','#ba181b','#e5383b', '#660708']; 
 export class TextAnimator {
   private textElement: HTMLElement;
   private splitter: any;
