@@ -10,7 +10,6 @@ published: 2024-11-28
 ---
 
 # Welcome
-
 Step into a digital space where ideas converge and creativity takes shape. This site is a reflection of my journey as a software engineer—a place where my notes, projects, and learnings come together to tell my story. From technical deep dives to personal growth, this is both a portfolio of my work and a canvas for exploration. I invite you to browse, learn, and connect with the thoughts and creations that define my path.
 
 ---
