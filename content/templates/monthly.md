@@ -13,10 +13,14 @@ published: <% tp.date.now("YYYY-MM-DD") %>
 
 
 ---
-# Daily Notes
+## Daily Notes
+
+>[!bug]- Note
+>the following code is meant for Obsidian DataView plugin and will not work here in the website
+
 ```dataview
 table file.mtime as "Last Modified"
 from "notes/daily"
-where file.name.startsWith("<% tp.file.title %>")
+WHERE contains(file.name, "<% tp.file.title %>")
 sort file.name asc
 ```
