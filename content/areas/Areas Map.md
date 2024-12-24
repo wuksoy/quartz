@@ -1,12 +1,10 @@
 ---
 title: Areas
 draft: false
-aliases: 
 tags: 
 MOC: 
 created: 2024-11-28
 modified: 2024-12-09
-published: 2024-11-28
 ---
 The **[[areas/index|Areas]]** section encompasses the ongoing responsibilities and commitments in your life. These are domains that require regular attention and effort to maintain balance, growth, and progress.
 

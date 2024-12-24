@@ -1,12 +1,10 @@
 ---
 title: Resources
 draft: false
-aliases: 
 tags: []
 MOC: 
 created: 2024-11-28
 modified: 2024-11-28
-published: 2024-11-28
 ---
 The **[[resources/index|Resources]]** section is a curated library of tools, guides, and reference materials collected to support learning, creativity, and productivity. It is designed to be a go-to hub for exploring a wide range of topics and areas of expertise.
 

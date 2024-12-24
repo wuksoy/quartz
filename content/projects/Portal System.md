@@ -1,13 +1,11 @@
 ---
 title: Portal System
 draft: false
-aliases: 
 tags:
   - project
 MOC: "[[Personal Computers Projects]]"
 created: 2024-11-28
 modified: 2024-12-01
-published: 2024-12-01
 ---
 ## Project Description
 

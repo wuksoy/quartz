@@ -1,12 +1,10 @@
 ---
 title: Work Responsibilities
 draft: false
-aliases: 
 tags: 
 MOC: 
 created: 2024-11-28
 modified: 2024-12-02
-published: 2024-12-02
 ---
 This document outlines my key responsibilities as a software developer, spanning technical, collaborative, and strategic aspects of my role. These duties ensure that I contribute effectively to my team and deliver high-quality software solutions.
 

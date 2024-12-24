@@ -1,12 +1,10 @@
 ---
 title: Projects
 draft: false
-aliases: 
-tags: []
+tags: 
 MOC: 
 created: 2024-11-28
 modified: 2024-11-28
-published: 2024-11-28
 ---
 
 The **[[projects/index|Projects]]** section showcases ongoing, and planned endeavours. It serves as a portfolio of my creative and technical achievements, documenting progress, challenges, and key learnings.

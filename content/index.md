@@ -1,12 +1,12 @@
 ---
 title: Mohamed Wishan
 draft: false
-aliases: 
+aliases:
+  - homepage
 tags: 
 MOC: 
 created: 2024-11-21
 modified: 2024-11-28
-published: 2024-11-28
 ---
 
 # Welcome

@@ -1,7 +1,6 @@
 ---
 title: Wuksoy Website
 draft: false
-aliases: 
 tags:
   - project
 MOC: "[[Projects Map]]"

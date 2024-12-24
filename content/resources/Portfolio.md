@@ -1,12 +1,10 @@
 ---
 title: Portfolio
 draft: true
-aliases: 
 tags: 
 MOC: 
 created: 2024-12-01
 modified: 2024-12-01
-published: 2024-12-01
 ---
 Welcome to my professional portfolio, where I share the highlights of my education, work experience, and key accomplishments. This page serves as a snapshot of my journey as a software engineer.
 

@@ -1,13 +1,11 @@
 ---
 title: Fabrics Web Application Project
 draft: false
-aliases: 
 tags:
   - project
 MOC: "[[Projects Map]]"
 created: 2024-12-08
 modified: 2024-12-08
-published: 2024-12-08
 ---
 
 A central document for organizing, tracking, and reflecting on the progress of the **Fabrics Web Application Project**. This serves as a single source of truth for all stakeholders and contributors.

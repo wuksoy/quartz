@@ -1,12 +1,10 @@
 ---
 title: Personal Development
 draft: false
-aliases: 
 tags: 
 MOC: 
 created: 2024-11-28
 modified: 2024-12-02
-published: 2024-12-02
 ---
 This note serves as a **Map of Content** for the **Personal Development** area. It organizes ongoing initiatives, habits, and practices aimed at self-improvement and growth, ensuring alignment with long-term personal and professional goals.
 

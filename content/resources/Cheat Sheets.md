@@ -1,9 +1,10 @@
 ---
 title: Cheat Sheets
-tags: []
-drafts: "false"
-date: 2024-11-23
-created: 2024-11-23
+draft: false
+tags: 
+MOC: 
+created: 2024-12-05
+modified: 2024-12-24
 ---
 
 This note organizes various cheat sheets I've collected over the years, grouped by topic for quick reference.

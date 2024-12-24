@@ -1,12 +1,10 @@
 ---
 title: Finances
 draft: false
-aliases: 
 tags: 
 MOC: 
 created: 2024-12-05
 modified: 2024-12-09
-published: 2024-12-09
 ---
 This note serves as the central hub for managing, tracking, and planning all financial aspects. It covers personal budgeting, expense tracking, investments, and financial goals.
 

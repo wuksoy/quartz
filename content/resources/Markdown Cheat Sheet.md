@@ -1,13 +1,11 @@
 ---
 title: Markdown Cheat Sheet
 draft: false
-aliases: 
 tags:
   - cheatsheet
 MOC: "[[Cheat Sheets]]"
 created: 2024-12-05
 modified: 2024-12-11
-published: 2024-12-11
 ---
 
 ## Syntax
