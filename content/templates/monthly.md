@@ -16,7 +16,7 @@ published: <% tp.date.now("YYYY-MM-DD") %>
 ## Daily Notes
 
 >[!bug]- Note
->the following code is meant for Obsidian DataView plugin and will not work here in the website
+>the following code is meant for Obsidian DataView plugin and currently does not work on the website
 
 ```dataview
 table file.mtime as "Last Modified"
