@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 draft: false
-tags:
+tags: 
 MOC: '[[<% tp.date.now("YYYY-MM", 0, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") %>]]'
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
@@ -16,13 +16,12 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 
 ### Due
 
->[!bug]- Note
->the following code is meant for Obsidian DataView plugin and currently does not work on the website
-
-```tasks
-not done
-due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
-```
+> [!bug]- Note
+> the following code is meant for Obsidian Dataview plugin and currently does not work on the website
+>```tasks
+> not done
+> due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
+> ```
 
 ### New
 
@@ -34,6 +33,7 @@ due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 - Mood::
 - Caffeine::
 - Exercise::
+- Git::
 
 ---
 ## Daily Log
@@ -47,11 +47,17 @@ due <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 
 - Wins::
 - Challenges::
+- Lows::
+- Moment::
 
 ---
 ## Thoughts and Ideas
 
 - new notes are here
+
+### Ephemeral Notes
+
+- random notes go here
 
 ---
 ## Reflection
