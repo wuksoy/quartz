@@ -35,6 +35,13 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 - Exercise::
 - Git::
 
+### Balatro : The Perfect Straight Flush
+ - A♠️::
+ - K♠️::
+ - Q♠️::
+ - J♠️::
+ - T♠️::
+
 ---
 ## Daily Log
 

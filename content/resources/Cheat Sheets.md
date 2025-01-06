@@ -13,8 +13,10 @@ This note organizes various cheat sheets I've collected over the years, grouped 
 
 - [[Git Cheat Sheet]]  
     Essential Git commands for version control workflows.
-- [[Markdown Cheat Sheet]]  
-    Syntax guide for writing Markdown efficiently.
+- [[Markdown Cheat Sheet]]
+	Syntax guide for writing Markdown efficiently.
+- [[Mermaid Diagrams]]
+    
 
 #### 🧑‍💻 **PHP Frameworks**
 

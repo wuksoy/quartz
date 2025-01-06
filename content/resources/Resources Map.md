@@ -42,7 +42,7 @@ The **[[resources/index|Resources]]** section is a curated library of tools, gui
     
 ### People & Networks:
 
-- **[[People]]**  
+- **[[resources/People]]**  
     Profiles and notes on influential figures, mentors, and collaborators.
     
 ### Additional Categories:
