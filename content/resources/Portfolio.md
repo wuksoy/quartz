@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-draft: true
+draft: false
 tags: 
 MOC: 
 created: 2024-12-01
@@ -61,5 +61,4 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 
 ---
 
-## CD
 
