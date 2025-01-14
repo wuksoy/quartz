@@ -29,14 +29,14 @@ modified: 2024-12-11
 | `<sup> </sup>`           | supetscript      | Create a <sup>superscript</sup> |
 | `<ins> </ins>`           | underline        | Create an <ins>underline</ins>  |
 | `[]`                     | tasklist         | Creates a task                  |
-| `[^1]`                   | footnote         | Create footnote[^1]             |
+| `[^1]`                   | footnote         | Create footnote [^1]            |
 >[!note]
 >you can use the character `\` to escape the listed markdown syntaxes
 
 ---
 ## Callouts
 
-Quartz supports the same Admonition-callout syntax as Obsidian. 
+Quartz supports the same Admonition-callout syntax as Obsidian. [^2]
 
 This includes
 - 12 Distinct callout types (each with several aliases)
@@ -95,3 +95,4 @@ This includes
 ---
 
 [^1]: My example reference.
+[^2]: this is a second reference

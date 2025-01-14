@@ -25,28 +25,45 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 
 ## Work Experience
 
-### [Job Title] – [Company Name]
+### Full-Stack Developer
+[Personal Computers](personalcomputers.mv) `[2022] – [Present]`
 
-[Start Date] – [End Date or Present]
+- Currently Developing a full-stack SaaS Mobile and Web Application using Flutter
+- Collaborated with cross-functional trams to design and implement new features for key inhouse staff
+- Completed multiple projects for both inhouse and third parties successfully and within time
 
-- Key responsibility or achievement #1.
-- Key responsibility or achievement #2.
-- Key responsibility or achievement #3.
+### Frontend Developer
+[2021] – [2022]
 
-### [Previous Job Title] – [Previous Company Name]
+- In charge of developing Frontend Application with focus in performance and responsiveness using modern JavaScript Frameworks
 
-[Start Date] – [End Date]
+### Freelance Developer – [Turing](www.turing.com)
+[2019] – [2021]
 
-- Key responsibility or achievement #1.
-- Key responsibility or achievement #2.
-- Key responsibility or achievement #3.
+- Built reusable components and streamlined projects using Python
+- Developed applications to automate work within multiple businesses
 
+### Junior Developer – [Advisory Apps Sdn Bhd](advisoryapps.com)
+[2017] – [2018]
+
+- Responsible for updating company website built on custom PHP framework
+- Worked with Texas Instruments Malaysia to implement new functions in their onsite Spring Boot Application
 ---
 
 ## Skills
 
-- **Technical Skills:** [e.g., Programming Languages, Frameworks, Tools]
-- **Soft Skills:** [e.g., Leadership, Collaboration, Problem-Solving]
+### Technical Skills
+- full-stack development
+- RESTFUL API Design
+- Version Control (Git)
+- Database Management
+- Agile development (Scrum)
+- list of fluent programming languages and frameworks
+### Professional Skills
+- project management
+- team collaboration
+- task prioritization
+- creativity
 
 ---
 
