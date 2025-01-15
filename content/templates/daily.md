@@ -5,6 +5,11 @@ tags:
 MOC: '[[<% tp.date.now("YYYY-MM", 0, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") %>]]'
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
+A♠️: 0
+K♠️: 0
+Q♠️: 0
+J♠️: 0
+T♠️: 0
 ---
 ##### [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|Previous Day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|Next Day]] | [[<% tp.date.now("YYYY-MM", 0, tp.file.title, "YYYY-MM-DD") %>|This Month]]
 
@@ -34,13 +39,6 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 - Caffeine::
 - Exercise::
 - Git::
-
-### Balatro : The Perfect Straight Flush
- - A♠️::
- - K♠️::
- - Q♠️::
- - J♠️::
- - T♠️::
 
 ---
 ## Daily Log

@@ -91,8 +91,9 @@ gantt
 ---
 ## Resources and Tools
 
-- **Documentation:** Link to technical docs, guides, or project charters.
-- **Tools:** Mention key tools or platforms (e.g., GitHub, Jira, Figma).
+- **Documentation:** 
+- **Tools:** 
+	- [[WhatsApp Business API Setup]]
 - **References:** Link to any research, APIs, or standards being followed.
 
 ---
