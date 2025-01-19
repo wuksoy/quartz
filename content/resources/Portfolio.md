@@ -31,7 +31,7 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 - Collaborated with cross-functional trams to design and implement new features for key inhouse staff
 - Completed multiple projects for both inhouse and third parties successfully and within time
 
-### Frontend Developer - Utoto Ai Inc[2021] – [2022]
+### Frontend Developer - Utoto Ai Inc `[2021] – [2022]`
 
 - In charge of developing Frontend Application with focus in performance and responsiveness using modern JavaScript Frameworks
 
