@@ -12,9 +12,8 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 
 ## Education
 
-- **[Degree/Program Name]**, [Institution Name]  
-    [Years Attended]  
-    Brief description of the program, notable achievements, or key learnings.
+- **[Bachelors in Software Engineering]**, [Asia Pacific University of Technology and Innovation]  
+    
     
 - **Certifications & Training**
     
@@ -58,7 +57,26 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 - Version Control (Git)
 - Database Management
 - Agile development (Scrum)
-- list of fluent programming languages and frameworks
+- Statistical Analysis
+##### List of Programming Languages
+- Python
+	- TensorFlow
+	- Pandas
+	- Flask
+	- Odoo ERP Systems
+- PHP
+	- Laravel
+	- CodeIgniter
+	- Filament
+	- WordPress
+- Java
+	- Spring Boot
+	- Android Development
+- Dart
+	- Flutter
+- JavaScript
+	- Vue / Nuxt 3
+	- Node JS / Strapi
 ### Professional Skills
 - project management
 - team collaboration
@@ -69,12 +87,8 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 
 ## Key Projects
 
-- **[Project Name]**  
-    Brief description, tools/technologies used, and key outcomes.
-    
-- **[Another Project Name]**  
-    Brief description, tools/technologies used, and key outcomes.
-    
+-  [[Point of Sale System]]
+- [[License Delivery System]]
 
 ---
 
