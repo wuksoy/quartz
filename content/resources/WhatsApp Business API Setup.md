@@ -2,7 +2,7 @@
 title: WhatsApp Business API Setup
 draft: false
 tags: 
-MOC: 
+MOC: "[[Resources Map]]"
 created: 2025-01-15
 modified: 2025-01-15
 ---

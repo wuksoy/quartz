@@ -2,7 +2,7 @@
 title: Mermaid Diagrams
 draft: false
 tags: 
-MOC: 
+MOC: "[[Resources Map]]"
 created: 2025-01-06
 modified: 2025-01-06
 ---
