@@ -1,6 +1,6 @@
 ---
 title: Ramadan Quiz Application
-draft: true
+draft: false
 aliases: 
 tags:
   - project

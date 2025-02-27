@@ -13,3 +13,4 @@ this note serves as the map of content for all the games and game related conten
 - [[Baldur's Gate 3 ]]
 - [[Dragon Age Veilguard]]
 - [[Balatro]]
+- [[Frostpunk 2]]
