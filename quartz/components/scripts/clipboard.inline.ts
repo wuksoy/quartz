@@ -59,15 +59,14 @@ document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(item => {
 });
 
 // LENIS SMOOTH ANIMATIONS
-const lenis = new Lenis({
-  duration: 1.125,
-  easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
-  smoothWheel: true,
-});
+// const lenis = new Lenis({
+//   duration: 1.125,
+//   easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+//   smoothWheel: true,
+// });
 
-function raf(time: number) {
-  lenis.raf(time);
-  requestAnimationFrame(raf);
-}
-
-requestAnimationFrame(raf);
+// function raf(time: number) {
+//   lenis.raf(time);
+//   requestAnimationFrame(raf);
+// }
+// requestAnimationFrame(raf);
