@@ -20,7 +20,7 @@ php artisan make:middleware ContentSecurityPolicyMiddleware
 ### 02: Modify the Middleware
 update the middleware like so:
 ```
-<? php
+<?php
 
 namespace App\Http\Middleware;
 
