@@ -19,7 +19,8 @@ A central document for organizing, tracking, and reflecting on the progress of t
 - Briefly describe the problem this project aims to solve or the opportunity it addresses.
 
 ### **Scope**
-- Define what the project includes and excludes to set boundaries.
+- Includes:
+- Excludes:
 
 ### **Key Deliverables**
 - List the primary outputs (e.g., functional software, documentation, analytics reports).
