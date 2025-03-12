@@ -1,6 +1,6 @@
 ---
 title: Point of Sale System
-draft: false
+draft: true
 tags:
   - project
 MOC: "[[Personal Computers Projects]]"

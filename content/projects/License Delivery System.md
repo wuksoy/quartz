@@ -19,11 +19,13 @@ A central document for organizing, tracking, and reflecting on the progress of t
 - create a customer facing web application to retrieve their software license key online
 - create a backend system for staff to add, assign and review license keys and logs of all transaction
 - integrate email, WhatsApp and SMS for customer convenience
+- provide a way to confirm the customer has accessed and retrieved their key from the system
 
 ### **Key Deliverables**
 - Functional Software
 	- A customer-facing web application to retrieve and view their license keys
 	- Backend platform for staff to add and assign license keys to customers
+	- A dashboard to manage all keys and see data related to the system
 - Documentation
 	- Software development documentation of technology used
 	- Staff training guide
@@ -70,6 +72,7 @@ gantt
 - SMS integration
 - Bulk upload of software licenses
 - generate reports on logs and license keys
+- tracker to see where when and who accesses license keys
 
 ### **Team Roles**
 - This project was assigned to 2 people
@@ -94,23 +97,34 @@ gantt
 - **Documentation:** 
 - **Tools:** 
 	- [[WhatsApp Business API Setup]]
-- **References:** Link to any research, APIs, or standards being followed.
+- **References:** 
+	- [WhatsApp API Documentation](business.whatsapp.com/developers/developer-hub)
 
 ---
 ## Communication Plan
 
-- **Meeting Cadence:** Frequency of team check-ins or stakeholder updates.
-- **Key Contacts:** List primary points of contact and their roles.
+- **Meeting Cadence:** weekly manager meeting
+- **Key Contacts:** REDACTED
 
 ---
 ## Retrospective
 
-- **Lessons Learned:** Reflect on successes and areas for improvement.
-- **Outcomes:** Summarize final results and how they compare to initial goals.
-- **Future Opportunities:** Highlight ideas or next steps stemming from this project.
+- **Lessons Learned:** 
+	- **API Dependencies Can Be Risky** – The project relied on a third-party SMS provider that became non-functional, which highlighted the risks of external dependencies. Future projects should evaluate alternative providers early in the process.
+	- **Early Testing is Crucial** – Testing integrations (WhatsApp, email, and SMS) early helped identify potential roadblocks before deployment.
+	- **User Experience Matters** – Providing a simple, intuitive way for customers to retrieve their license keys significantly improved adoption and reduced support requests.
+- **Outcomes:** 
+	- A fully functional, automated **License Delivery System** was successfully deployed.
+	- Customers can now retrieve their software license keys online with minimal friction.
+	- staff from all over the company can efficiently manage license key assignments, reducing manual workload and reliance on Excel sheets and one person having to manage the keys for security purposes.
+	- Integrated tracking and reporting improved transparency in license key access and usage.
+- **Future Opportunities:** 
+	- **Alternative SMS Provider Integration** – Given the challenges faced, evaluating and integrating a backup SMS provider could improve reliability.
+	- **Enhancing Customer Notifications** – Exploring push notifications or in-app alerts to complement email, WhatsApp, and SMS.
+	- **Expanding License Management Features** – Future enhancements could include auto-renewal reminders, extended reporting, or customer self-service features for managing multiple licenses.
 
 ---
 ## Appendices
 
-- **Project Files:** Include links to relevant files, repositories, and mockups.
-- **Change Log:** Record major updates or decisions affecting the project scope or timeline.
+- **Project Files:~~** **REDACTED**~~
+- **Change Log:** 

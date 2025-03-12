@@ -87,7 +87,7 @@ Welcome to my professional portfolio, where I share the highlights of my educati
 ## Key Projects
 
 -  [[Point of Sale System]]
-- [[License Delivery System]]
+-  [[License Delivery System]]
 
 ---
 

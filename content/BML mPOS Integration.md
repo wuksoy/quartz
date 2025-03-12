@@ -1,16 +1,16 @@
 ---
-title: <% tp.file.title %>
-draft: true
+title: BML mPOS Integration
+draft: false
 aliases: 
 tags:
   - project
 MOC: "[[Projects Map]]"
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
-modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
-published: <% tp.date.now("YYYY-MM-DD") %>
+created: 2025-03-12
+modified: 2025-03-12
+published: 2025-03-12
 ---
 
-A central document for organizing, tracking, and reflecting on the progress of the **<% tp.file.title %>**. This serves as a single source of truth for all stakeholders and contributors.
+A central document for organizing, tracking, and reflecting on the progress of the **BML mPOS Integration**. This serves as a single source of truth for all stakeholders and contributors.
 
 ---
 ## Overview
@@ -44,12 +44,12 @@ A central document for organizing, tracking, and reflecting on the progress of t
 ### **Timeline**
 ```mermaid 
 gantt
-    title <% tp.file.title %>
+    title License Delivery System
     dateFormat YYYY-MM-DD
     axisFormat %d-%m
     excludes friday
     section Requirement Analysis
-        collect requirements          :a1, <% tp.date.now("YYYY-MM-DD") %>, 1d
+        collect requirements          :a1, 2025-03-12, 1d
         finalise scope                :a2,after a1, 1d
     section Design and Development
         finalise tech stack           :a3, after a2, 3d
