@@ -13,6 +13,3 @@ This note
 
 - [[Portal System]]
 - [[Point of Sale System]]
-- [[Warranties and Terms Publishing]]
-- [[Lucky Draw System]]
-- [[Ramadan Quiz Application]]

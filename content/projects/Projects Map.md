@@ -27,5 +27,6 @@ If you're looking for a list of all projects, you can check out the #project tag
 #### Personal Projects
 
 - **[[BML mPOS Integration]]**
+- [[Resort Room Rate Calculator]]
 - **[[Headless CMS]]**
 - **[[Mawuk]]**

@@ -1,6 +1,6 @@
 ---
 title: BML mPOS Integration
-draft: false
+draft: true
 aliases: 
 tags:
   - project
