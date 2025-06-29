@@ -6,7 +6,6 @@ MOC:
 created: 2024-11-26
 modified: 2024-11-26
 ---
-This note 
 
 ---
 ## List of active Projects:
